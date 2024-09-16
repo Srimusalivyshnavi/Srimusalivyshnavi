@@ -61,18 +61,6 @@
 
 ---
 
-<h3 align="center">Coding Profiles</h3>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/vyshnavivarshi11" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://www.leetcode.com/vyshnavi_varshi-123" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
-
----
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
