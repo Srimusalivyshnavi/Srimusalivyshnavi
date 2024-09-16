@@ -1,16 +1,17 @@
 <h2 align="center">Hi 👋, I'm Vyshnavi Srimusali</h2>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="Coding Animation" width="400" />
+</p>
+
+---
 
 <p align="center">
   <em>I have been improving my knowledge of MERN stack development and enhancing my skills in data structures and algorithms.</em>
 </p>
 
 ---
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="Coding Animation" width="400" />
-</p>
 
----
 
 <p align="center"> 
   🌱 I’m currently learning <strong>MERN stack</strong> <br>
@@ -34,7 +35,7 @@
 
 <h2 align="center">🚀 Skills</h2>
 
-### Frontend
+<h3 align="center">Frontend</h3> 
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
@@ -42,20 +43,20 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
 </p>
 
-### Backend
+
+<h3 align="center">Backend</h3> 
 <p>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express.js" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" />
 </p>
-
-### Data Structures and Algorithms
+<h3 align="center">Data Structures and Algorithms</h3> 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
 </p>
+<h3 align="center">Tools & Platforms</h3> 
 
-### Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
