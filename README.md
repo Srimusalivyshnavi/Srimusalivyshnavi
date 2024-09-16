@@ -6,6 +6,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/26AOVvN1yVmnvpuF2/giphy.gif" alt="Coding Animation" width="400" />
+</p>
+
+---
 
 <p align="center"> 
   🌱 I’m currently learning <strong>MERN stack</strong> <br>
