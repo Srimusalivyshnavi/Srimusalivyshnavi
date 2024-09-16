@@ -59,14 +59,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srimusalivyshnavi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 <h3 align="center">Coding Profiles</h3>
 
 <p align="center">
@@ -76,6 +68,13 @@
   <a href="https://www.leetcode.com/vyshnavi_varshi-123" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
+</p>
+
+---
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srimusalivyshnavi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
