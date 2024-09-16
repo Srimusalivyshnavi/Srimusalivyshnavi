@@ -1,9 +1,5 @@
 <h2 align="center">Hi 👋, I'm Vyshnavi Srimusali</h2>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="Coding Animation" width="400" />
-</p>
-
 ---
 
 <p align="center">
@@ -11,7 +7,6 @@
 </p>
 
 ---
-
 
 <p align="center"> 
   🌱 I’m currently learning <strong>MERN stack</strong> <br>
