@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Vyshnavi Srimusali</h2>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+
 ---
 
 <p align="center">
@@ -9,7 +9,6 @@
 ---
 
 <p align="center"> 
-  🌱 I’m currently learning <strong>MERN stack</strong> <br>
   💬 Ask me about <strong>MERN</strong> and <strong>Data structures and Algorithms</strong> <br>
   📫 How to reach me: <strong>srimusalivyshnavi1@gmail.com</strong>
 </p>
