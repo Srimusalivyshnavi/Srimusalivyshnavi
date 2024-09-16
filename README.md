@@ -23,17 +23,6 @@
 
 ---
 
-<h3 align="left">Coding Profiles:</h3>
-<p align="left">
-  <a href="https://www.hackerrank.com/vyshnavivarshi11" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vyshnavi on HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/vyshnavi_varshi-123" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vyshnavi on LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
 
 ## 🚀 Skills
 
@@ -59,6 +48,17 @@
 
 ---
 
+<h3 align="left">Coding Profiles:</h3>
+<p align="left">
+  <a href="https://www.hackerrank.com/vyshnavivarshi11" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vyshnavi on HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/vyshnavi_varshi-123" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vyshnavi on LeetCode" height="30" width="40" />
+  </a>
+</p>
+
+---
 <h3 align="left">📊 GitHub Stats</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srimusalivyshnavi&show_icons=true&locale=en&layout=compact" alt="srimusalivyshnavi" />
