@@ -60,12 +60,4 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srimusalivyshnavi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 <h3 align="center">Let's build something great together! 😄</h3>
